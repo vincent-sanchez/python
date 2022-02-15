@@ -5,7 +5,7 @@ art.py contains all ASCII art and banners used to print in the main.py program.
 
 main.py contains the logic used to meet the project requirements of Day 15 of the 100 Days of Code: Python course from Dr. Angela Yu.
 
-#Coffee Machine Program Requirements
+## Coffee Machine Program Requirements ##
 
 1. Prompt user by asking “What would you like? (espresso/latte/cappuccino):”
 a. Check the user’s input to decide what to do next.
